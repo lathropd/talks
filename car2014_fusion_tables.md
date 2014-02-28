@@ -45,15 +45,26 @@ Fusion Tables are Google's answer to a relational database in the cloud. It's li
 
 --
 
-![that didn't work](car2014_data/screenshot14.png)
+![that didn't work](car2014_data/screenshot14.png)<br>
 6. Make zipcodes into a location
 ![change the column](car2014_data/screenshot15.png)
 
 --
 
 ![make it a location](car2014_data/screenshot16.png)<br>
-7. Wait again
-![this could take a while](car2014_data/screenshot17.png)
+7. Wait again, then look at your map
+![cool, dots!](car2014_data/screenshot18.png)<br>
+8. Now edit your map<br>
+![arrange colors](car2014_data/screenshot20.png)
+
+![this could take a while](car2014_data/screenshot21.png)<br>
+
+![this could take a while](car2014_data/screenshot22.png)<br>
+9. Filter data and admire your work
+![this could take a while](car2014_data/screenshot23.png)
+
+
+
 
 
 
