@@ -27,7 +27,6 @@ Fusion Tables are Google's answer to a relational database in the cloud. It's li
 
 
 ##Part B: Examine it
-------------------
 1. Look at your data
 ![look at your data](car2014_data/screenshot7.png)
 2. Pick some columns to summarize
@@ -62,6 +61,39 @@ Fusion Tables are Google's answer to a relational database in the cloud. It's li
 ![this could take a while](car2014_data/screenshot22.png)<br>
 9. Filter data and admire your work
 ![this could take a while](car2014_data/screenshot23.png)
+
+--
+
+
+##Part C: Merge it!!!!!!
+
+![](car2014_data/screenshot24.png)
+
+![](car2014_data/screenshot25.png)
+
+
+![](car2014_data/screenshot26.png)
+
+![](car2014_data/screenshot27.png)
+
+![](car2014_data/screenshot28.png)
+
+![](car2014_data/screenshot29.png)
+
+![](car2014_data/screenshot30.png)
+
+![](car2014_data/screenshot31.png)
+
+![](car2014_data/screenshot32.png)
+
+![](car2014_data/screenshot33.png)
+
+![](car2014_data/screenshot34.png)
+
+![](car2014_data/screenshot35.png)
+
+![](car2014_data/screenshot36.png)
+
 
 
 
