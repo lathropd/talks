@@ -1,52 +1,64 @@
-Fusion Tables for Beginners
------------------
+#Fusion Tables for Beginners
+
 CAR Conference 2014 
 
 Baltimore, Md.
 
 Daniel Lathrop
+
 2014-02-28
 
+Handout and data at: http://github.com/lathropd/talks
 
-Handout and data at:
-
-http://github.com/lathropd/talks
-
-
-*What's a fusion table?*
-
+##A what?
 Fusion Tables are Google's answer to a relational database in the cloud. It's like an online version of Microsoft Access (or MySQL or Postgres or ...) with minimal features but good visualization tools. And yes, it has SQL inside.
 
 
-*Getting started*
-
-
-
+##Part A: Import some data
 1. Create one at [google.com/drive/apps.html#fusiontables](http://www.google.com/drive/apps.html#fusiontables)
-
 ![Fusion Tables is part of Google Drive](car2014_data/screenshot1.png)
-
-
 2. Choose method of creating file ("From this computer").
-
 ![select choose a file](car2014_data/screenshot2.png)
-
 3. Select our sample data (Maryland Census Data from American Communities Survey 2012) from the IRE training folder.
-
 ![choose the 2012 census data](car2014_data/screenshot3.png)
-
-
 4. Setup the import
-
 ![pull it in](car2014_data/screenshot4.png)
-
---
-
 ![say ok](car2014_data/screenshot5.png)
-
 5. Wait ...
 
 ![wait](car2014_data/screenshot6.png)
+
+
+##Part B: Examine it
+------------------
+1. Look at your data
+![look at your data](car2014_data/screenshot7.png)
+2. Pick some columns to summarize
+![select some variables](car2014_data/screenshot8.png)
+3. OK, that's ugly
+![ick!](car2014_data/screenshot9.png)
+4. Change some column names
+![select modify columns](car2014_data/screenshot10.png)
+
+--
+
+![choose better names](car2014_data/screenshot11.png)
+5. Try to map it
+![make a map](car2014_data/screenshot12.png)
+
+--
+
+![that didn't work](car2014_data/screenshot14.png)
+6. Make zipcodes into a location
+![change the column](car2014_data/screenshot15.png)
+
+--
+
+![make it a location](car2014_data/screenshot16.png)
+7. Wait again
+![this could take a while](car2014_data/screenshot17.png)
+
+
 
 
 
