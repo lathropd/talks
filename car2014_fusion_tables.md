@@ -95,11 +95,28 @@ Fusion Tables are Google's answer to a relational database in the cloud. It's li
 ![](car2014_data/screenshot36.png)
 
 
+--
+
+##Part D: More cool stuff
+
+Shp Escape
+http://shpescape.org
 
 
+Census TIGER Files
+http://www.census.gov/cgi-bin/geo/shapefiles2013/main
 
+Fusion Tables Layer Wizard
+http://fusion-tables-api-samples.googlecode.com/svn/trunk/FusionTablesLayerWizard/src/index.html
 
+ESRI Story Maps
+http://storymaps.arcgis.com/en/
 
+Tableau Desktop
+https://www.tableausoftware.com/products/desktop
+
+Tableau Public
+https://www.tableausoftware.com/products/public
 
 
 
