@@ -1,3 +1,9 @@
+---
+layout: index
+title: Daniel's talks
+---
+
+
 #Daniel's Talks
 **That's right, Daniel loves to talk. He does it a lot in front of different groups. Areas of interest: public records, open government, data & journalism, investigative reporting, journalism hacks.
 

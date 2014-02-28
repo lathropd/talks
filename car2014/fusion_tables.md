@@ -1,3 +1,8 @@
+---
+layout: talk
+title: Fusion Tables for Beginners (CAR Conference 2014)
+---
+
 #Fusion Tables for Beginners
 
 CAR Conference 2014<br>
