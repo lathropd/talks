@@ -1,12 +1,9 @@
 #Fusion Tables for Beginners
 
-CAR Conference 2014 
-
-Baltimore, Md.
-
-Daniel Lathrop
-
-2014-02-28
+CAR Conference 2014<br>
+Baltimore, Md.<br>
+Daniel Lathrop<br>
+2014-02-28<br>
 
 Handout and data at: http://github.com/lathropd/talks
 
@@ -42,7 +39,7 @@ Fusion Tables are Google's answer to a relational database in the cloud. It's li
 
 --
 
-![choose better names](car2014_data/screenshot11.png)
+![choose better names](car2014_data/screenshot11.png)<br>
 5. Try to map it
 ![make a map](car2014_data/screenshot12.png)
 
@@ -54,7 +51,7 @@ Fusion Tables are Google's answer to a relational database in the cloud. It's li
 
 --
 
-![make it a location](car2014_data/screenshot16.png)
+![make it a location](car2014_data/screenshot16.png)<br>
 7. Wait again
 ![this could take a while](car2014_data/screenshot17.png)
 
